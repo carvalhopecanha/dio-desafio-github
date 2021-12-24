@@ -1,2 +1,2 @@
 # Repositório Projeto DIO
-Desafio de Projeto
+Desafio do Projeto
